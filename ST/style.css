@@ -1,0 +1,33 @@
+#quote-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+#quote-list li {
+  margin: 10px 0;
+  border-radius: 5px;
+  text-align: center;
+  font-size: 2em;
+  text-transform: uppercase;
+  font-family: "ITC Benguiat W01";
+  font-weight: 800;
+  color: #1c0502;
+  text-shadow: -0.05rem -0.05rem 2px #ed2b12, 0.05rem -0.05rem 2px #ed2b12,
+    -0.05rem 0.05rem 2px #ed2b12, 0.05rem 0.05rem 2px #ed2b12;
+}
+
+#loading-text {
+  display: none;
+  text-align: center;
+  font-size: 10px;
+  color: antiquewhite;
+}
+body {
+  background: #000;
+  width: fit-content;
+}
+h1 {
+  text-align: center;
+  color: antiquewhite;
+}

@@ -1,0 +1,13 @@
+{
+  "name": "All ISRO Spacecrafts",
+  "version": "1.0",
+  "description": "Displays a list of all ISRO Saunchers",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": ["activeTab"],
+  "background": {
+    "service_worker": "background.js"
+  }
+}

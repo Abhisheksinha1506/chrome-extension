@@ -1,0 +1,16 @@
+{
+  "name": "Open Tabs Counter",
+  "version": "1.0",
+  "description": "Counts the number of open tabs",
+  "manifest_version": 3,
+  "permissions": ["notifications"],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "icons": {
+    "16": "tabs.png",
+    "32": "tabs.png",
+    "48": "tabs.png",
+    "128": "tabs.png"
+  }
+}

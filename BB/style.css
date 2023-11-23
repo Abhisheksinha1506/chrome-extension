@@ -1,0 +1,30 @@
+#quote-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  color: antiquewhite;
+}
+ul {
+  list-style-type: none;
+}
+#quote-list li {
+  margin: 10px 0;
+  border-radius: 5px;
+  text-align: center;
+  list-style-type: none;
+  font-size: 15px;
+}
+#loading-text {
+  display: none;
+  text-align: center;
+  font-size: 20px;
+}
+body {
+  width: fit-content;
+  background: #2b2b2b;
+  font-weight: normal;
+}
+h1 {
+  text-align: center;
+  color: antiquewhite;
+}
